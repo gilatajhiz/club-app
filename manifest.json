@@ -1,0 +1,24 @@
+{
+ "name": "مدیریت باشگاه بوکس امید سلمانی",
+ "short_name": "باشگاه امید",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#f5f4f0",
+ "theme_color": "#1d2638",
+ "lang": "fa",
+ "dir": "rtl",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
